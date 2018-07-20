@@ -1,0 +1,1 @@
+docker run --network=wfanet --name=imagerecognition imagerecognitor
